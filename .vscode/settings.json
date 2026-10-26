@@ -1,0 +1,5 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "f:/brd-reconstruction-playbook-v2.0.1/brd-reconstruction-playbook-v2/.vscode/excel-pq-symbols"
+    ]
+}
